@@ -1,12 +1,12 @@
 {
-  "name": "dymantic/laravel-instagram-feed",
-  "description": "Fetches the instagram feed for given authenticated profiles",
+  "name": "BDAMatt/laravel-instagram-feed",
+  "description": "This is a fork of - https://github.com/Dymantic/laravel-instagram-feed - with timestamps",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Michael Joyner",
-      "email": "joyner.michael@gmail.com"
+      "name": "Matthew Pusey",
+      "email": "matt@thinkbda.com"
     }
   ],
   "require": {
@@ -28,7 +28,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Dymantic\\InstagramFeed\\InstagramFeedServiceProvider"
+        "BDAMatt\\InstagramFeed\\InstagramFeedServiceProvider"
       ]
     }
   }
