@@ -1,5 +1,5 @@
 {
-  "name": "BDAMatt/laravel-instagram-feed",
+  "name": "bda-matt/laravel-instagram-feed",
   "description": "This is a fork of - https://github.com/Dymantic/laravel-instagram-feed - with timestamps",
   "type": "library",
   "license": "MIT",
