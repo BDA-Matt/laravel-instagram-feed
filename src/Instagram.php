@@ -16,7 +16,6 @@ class Instagram
     const MEDIA_URL_FORMAT = "https://graph.instagram.com/%s/media?fields=%s&limit=%s&access_token=%s";
     const MEDIA_FIELDS = "caption,id,media_type,media_url,thumbnail_url,permalink,timestamp,children.media_type,children.media_url";
 
-
     private $client_id;
     private $client_secret;
     private $redirect_uri;

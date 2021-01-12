@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Dymantic\\InstagramFeed\\": "src"
+      "BDAMatt\\InstagramFeed\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Dymantic\\InstagramFeed\\Tests\\": "tests"
+      "BDAMatt\\InstagramFeed\\Tests\\": "tests"
     }
   },
   "extra": {
