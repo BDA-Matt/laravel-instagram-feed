@@ -17,18 +17,18 @@
   },
   "autoload": {
     "psr-4": {
-      "BDAMatt\\InstagramFeed\\": "src"
+      "bda-matt\\InstagramFeed\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "BDAMatt\\InstagramFeed\\Tests\\": "tests"
+      "bda-matt\\InstagramFeed\\Tests\\": "tests"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "BDAMatt\\InstagramFeed\\InstagramFeedServiceProvider"
+        "bda-matt\\InstagramFeed\\InstagramFeedServiceProvider"
       ]
     }
   }
