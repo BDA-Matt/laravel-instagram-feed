@@ -9,7 +9,7 @@ The aim of this package is to make it as simple and user-friendly as possible to
 ### Installation
 
 ```
-composer require dymantic/laravel-instagram-feed
+composer require BDA-Matt/laravel-instagram-feed
 ```
 
 **Note** You will need to use ^v2.0, as v1 used the old Legacy API which has been shut down.

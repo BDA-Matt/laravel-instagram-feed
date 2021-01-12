@@ -29,6 +29,7 @@ class MediaParser
             'type' => 'image',
             'url'  => $media['media_url'],
             'id' => $media['id'],
+            'timestamp' => $media['timestamp'],
             'caption' => (array_key_exists('caption', $media) ? $media['caption'] : NULL),
             'permalink' => $media['permalink']
         ];
